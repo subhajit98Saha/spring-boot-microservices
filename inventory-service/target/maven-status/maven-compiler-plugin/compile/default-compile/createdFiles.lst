@@ -1,0 +1,5 @@
+com\subhatech\inventoryservice\controller\InventoryController.class
+com\subhatech\inventoryservice\repository\InventoryRepository.class
+com\subhatech\inventoryservice\model\Inventory.class
+com\subhatech\inventoryservice\InventoryServiceApplication.class
+com\subhatech\inventoryservice\service\InventoryService.class
