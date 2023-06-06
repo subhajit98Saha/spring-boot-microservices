@@ -1,9 +1,0 @@
-com\subhatech\orderservice\dto\OrderRequest.class
-com\subhatech\orderservice\dto\OrderLineItemsDto.class
-com\subhatech\orderservice\model\Order$OrderBuilder.class
-com\subhatech\orderservice\controller\OrderController.class
-com\subhatech\orderservice\model\Order.class
-com\subhatech\orderservice\OrderServiceApplication.class
-com\subhatech\orderservice\service\OrderService.class
-com\subhatech\orderservice\repository\OrderRepository.class
-com\subhatech\orderservice\model\OrderLineItems.class
